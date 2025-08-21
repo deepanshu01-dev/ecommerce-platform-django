@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Contact Us{% endblock %}
+{% block header %}
+  <!-- Header -->
+  <header style="background-color: #072A6C; color: #EFBF04; " class="py-5">
+    <div class="container px-4 px-lg-5">
+      <div class="text-center">
+        <h1 class="display-4 fw-bolder">Contact Us</h1>
+        <p class="lead fw-normal text-white-50 mb-0">
+          We would love to hear from you!
+        </p>
+      </div>
+    </div>
+  </header>
+{% endblock %}
+
+{% block content %}
+<div class="container px-2 py-4">
+  <div class="mb-3 ">
+    <label for="exampleFormControlInput1" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  </div>
+  <div class="mb-3">
+    <label for="exampleFormControlTextarea1" class="form-label">Description</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+  <button type="button" class="btn btn-primary">Submit</button>
+</div>
+
+{% endblock %}
