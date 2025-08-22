@@ -75,7 +75,7 @@ http://127.0.0.1:8000/
 ![Login Page](screenshots/login_page.png)
 
 ### 🛒 Cart Page
-![Cart Page](screenshots/cart_page.png)
+![Cart Page]([screenshots/cart_page.png])
 
 ### 📦 Product Details Page
 ![Product Details Page](screenshots/product_detail_page.png)
