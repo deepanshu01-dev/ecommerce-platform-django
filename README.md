@@ -75,13 +75,14 @@ http://127.0.0.1:8000/
 ![Login Page](screenshots/login_page.png)
 
 ### 🛒 Cart Page
-![Cart Page]([screenshots/cart_page.png])
+![Cart Page](screenshots/cart_page.png)
 
 ### 📦 Product Details Page
 ![Product Details Page](screenshots/product_detail_page.png)
 
 ### 🔍 Search Results Page
 ![Search Results Page](screenshots/search_results_page.png)
+
 
 
 ## ✅ Future Improvements
@@ -99,7 +100,7 @@ Here are some enhancements planned for future versions of the project:
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by **Your Name**  
+Made with ❤️ by **Deepanshu**  
 🔗 [GitHub](https://github.com/deepanshu01-dev)
 
 ---
