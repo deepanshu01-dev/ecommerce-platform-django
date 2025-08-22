@@ -71,22 +71,19 @@ http://127.0.0.1:8000/
 ### 🏠 Home Page
 ![Home Page](screenshots/website%20home%20page.png)
 
-![Home Page](screenshots/website%20home%20page(2).png)
-
-
-
-
-### 🔐 Login Page
-![Login Page](screenshots/login_page.png)
-
-### 🛒 Cart Page
-![Cart Page](screenshots/cart_page.png)
+![Home Page](screenshots/website%20home%20page%20%282%29.png)
 
 ### 📦 Product Details Page
 ![Product Details Page](screenshots/product%20details%20page.png)
 
 ### 🔍 Search Results Page
 ![Search Results Page](screenshots/search%20result%20page.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/login_page.png)
+
+### 🛒 Cart Page
+![Cart Page](screenshots/cart_page.png)
 
 
 
