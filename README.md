@@ -69,7 +69,10 @@ http://127.0.0.1:8000/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home%20page.png)
+
+![Home Page](screenshots/home%20page%20(2).png)
+
 
 ### 🔐 Login Page
 ![Login Page](screenshots/login_page.png)
@@ -78,10 +81,11 @@ http://127.0.0.1:8000/
 ![Cart Page](screenshots/cart_page.png)
 
 ### 📦 Product Details Page
-![Product Details Page](screenshots/product_detail_page.png)
+![Product Details Page](screenshots/product%20details%20page.png)
 
 ### 🔍 Search Results Page
-![Search Results Page](screenshots/search_results_page.png)
+![Search Results Page](screenshots/search%20result%20page.png)
+
 
 
 
