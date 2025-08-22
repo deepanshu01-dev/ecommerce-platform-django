@@ -69,9 +69,11 @@ http://127.0.0.1:8000/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home%20page.png)
+![Home Page](screenshots/website%20home%20page.png)
 
-![Home Page](screenshots/home%20page%20(2).png)
+![Home Page](screenshots/website%20home%20page(2).png)
+
+
 
 
 ### 🔐 Login Page
